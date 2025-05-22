@@ -199,8 +199,7 @@ h3 {
 }
 
 .benefits-card {
-  max-width: 264px;
-  width: calc((100%-72px) / 4);
+  width: calc((100% - 72px) / 4);
 }
 
 .benefits-title {
